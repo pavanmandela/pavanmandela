@@ -38,7 +38,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
 </p>
 
@@ -48,7 +47,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
 </p>
 
 #### ⚙️ Tools & IDEs
@@ -72,7 +70,7 @@
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/pavan-mandela-500379308" target="_blank">
+  <a href="https://www.linkedin.com/in/pavan-mandela" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/pavanmandela" target="_blank">
